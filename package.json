@@ -1,0 +1,19 @@
+{
+  "name": "vault-api",
+  "version": "1.0.0",
+  "description": "RESTful API for Product Vault",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlclementjr/vault-api.git"
+  },
+  "author": "James Clement",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlclementjr/vault-api/issues"
+  },
+  "homepage": "https://github.com/jlclementjr/vault-api#readme"
+}
